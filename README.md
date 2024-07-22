@@ -13,9 +13,9 @@ I've implemented drag-and-drop functionality using Framer Motion for smooth, int
 
 ## Demo
 
-- You can access the live demo of Navolia's Universe
+- You can access the live demo of Docs
    ```bash
-   https://6655820a1cb83ab78e8dbfa4--musical-toffee-0fa6a1.netlify.app/ 
+   https://6655823c62f316b66f4e4cdc--musical-toffee-0fa6a1.netlify.app/
 
 ## Installation
 
