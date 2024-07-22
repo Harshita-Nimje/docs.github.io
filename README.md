@@ -1,4 +1,46 @@
 # Docs
+I've implemented drag-and-drop functionality using Framer Motion for smooth, intuitive card interactions on the website. This demonstrates my React expertise and dedication to enhancing user experiences through dynamic interfaces.
 
-The aspect of the project is the implementation of drag-and-drop functionality using Framer Motion. I've utilized Framer Motion's capabilities to make the cards within the website draggable with smooth motion, enhancing the overall user experience. The beauty of Framer Motion is its convenience; with just a single line of code, I was able to introduce this dynamic feature.
-I believe this project not only showcases my technical proficiency with React but also reflects my commitment to creating engaging and user-friendly interfaces. The learning process has been incredibly rewarding.
+## Features
+
+- The project integrates Framer Motion to enable seamless drag-and-drop functionality for enhanced user interaction with website cards.
+
+- It showcases my proficiency in React by implementing a user-friendly interface that prioritizes smooth animations and intuitive controls.
+
+## Preview
+
+![Screenshot 2024-07-23 000816](https://github.com/user-attachments/assets/553de4ff-786d-4dd7-ab1c-11d25ee0d846)
+
+## Demo
+
+- You can access the live demo of Navolia's Universe
+   ```bash
+   https://6655820a1cb83ab78e8dbfa4--musical-toffee-0fa6a1.netlify.app/ 
+
+## Installation
+
+- Clone the repository.
+   ```bash
+   git clone https://github.com/Harshita-Nimje/docs.github.io.git
+
+Run the application.
+
+- Run the application.
+   ```bash
+   npm run dev
+- Open your browser
+
+
+## Technologies Used
+
+
+- React: Employed to develop a modular and efficient frontend user interface, ensuring flexibility and scalability within the project.
+
+- Tailwind CSS: Utilized for rapid and customizable styling, enhancing the responsiveness and aesthetic appeal of the application's UI components.
+
+## Acknowledgments
+
+Special thanks to:
+
+- The React.js community for their foundational framework that underpinned our frontend development.
+- The Tailwind CSS community for their versatile utility-first CSS framework greatly enhanced our UI styling capabilities.
